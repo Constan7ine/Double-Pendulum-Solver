@@ -6,4 +6,4 @@ The simulation and solver, is written in Lua, because I like Lua a lot. When you
 
 Furthermore I've included an iPython notebook explaining the derivation of the equations and motion, and in the process teaching myself Sympy!
 
-[Double Pendulum Motion](doublePendulum.gif)
+![Double Pendulum Motion](doublePendulum.gif)
